@@ -1,3 +1,3 @@
-class UsersSearch(el){
+class UsersSearch{
 
 }
