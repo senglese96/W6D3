@@ -1,0 +1,15 @@
+/* PHASE 11: Icons */
+[class*="icon-"]{
+    background-image: url("../images/sprite.jpg");
+    background-size: 25px 250px;
+    display: inline-block;
+    height: 0px;
+    width: 25px;
+    overflow: hidden;
+    padding-top: 25px;
+}
+
+[class*="icon-small-"]{
+    height: 0px;
+    width: 20px;
+}
